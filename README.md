@@ -33,11 +33,11 @@ python script.py
 Functionalities
 
 ## Features
-Tokenize input text using the GPT-2 Tokenizer.
-Display tokens, token type IDs, attention mask, length and number of characters.
-Display the price of tokenization based on the number of tokens generated.
-Provide a help message box to assist users.
-Generate random examples to be tokenized.
+- Tokenize input text using the GPT-2 Tokenizer.
+- Display tokens, token type IDs, attention mask, length and number of characters.
+- Display the price of tokenization based on the number of tokens generated.
+- Provide a help message box to assist users.
+- Generate random examples to be tokenized.
 
 ## Modules information
 - **string**: By using string constants, the code is made more readable and maintainable.
