@@ -4,6 +4,12 @@
 
 This is a tokenization application using the GPT-2 Tokenizer. It takes in an input string and outputs the tokens, token type IDs, attention mask, length and number of characters. The application also calculates the price of the tokenization based on the number of tokens generated.
 
+## GUI Main Application:
+![main_gui](https://raw.githubusercontent.com/haseeb-heaven/ChatGPT-3-Tokenizer/main/main_app_ui.png)
+
+## Help section:
+![main_gui](https://raw.githubusercontent.com/haseeb-heaven/ChatGPT-3-Tokenizer/main/main_app_help.png)
+
 ## Requirements
 
 python 3.6 or higher
@@ -46,6 +52,6 @@ tkinter: The tkinter library provides an easy way to create graphical interfaces
 The price calculation is based on the **Davinci token**, which is the default token used in the calculation. The prices of other tokens (_Curie, Babbage, Ada_) are also listed in the code for reference.
 
 ## GPT-3 Tokenizer Website:
-[https://platform.openai.com/tokenizer](Chat-GPT Web based Tokenizer)
+Visit [Chat-GPT3 Tokenizer](https://platform.openai.com/tokenizer) website for checking official Web-based Tokenizer.
 
 Written by Haseeb Mir having Apache License.
