@@ -13,15 +13,15 @@ This is a Token information application using the GPT-2 Tokenizer. It takes in a
 ## Requirements
 
 python 3.6 or higher
-tkinter
-transformers
-wonderwords
-Installation
+- tkinter
+- transformers
+- wonderwords
+- Installation
 
 ## Installing packages
-pip install tkinter
-pip install transformers
-pip install wonderwords
+- pip install tkinter
+- pip install transformers
+- pip install wonderwords
 
 ## Features
 - Tokenize input text using the GPT-2 Tokenizer.
@@ -31,7 +31,7 @@ pip install wonderwords
 - Generate random examples to be tokenized.
 
 ## Modules information
-- tkinter: The tkinter library provides an easy way to create graphical interfaces. It is well-documented and widely used in the Python community.
+- **tkinter**: The tkinter library provides an easy way to create graphical interfaces. It is well-documented and widely used in the Python community.
 - **transformers**: The transformers library provides pre-trained models for NLP tasks. These models have been trained on large amounts of data and have achieved state-of-the-art performance on many NLP benchmarks.
 - **GPT2TokenizerFast**: The GPT-2 tokenizer is a fast and efficient tokenizer for the GPT-2 transformer model. It provides the tokenized representation of the input text, which is used in the program.
 - **wonderwords**: The wonderwords library provides a simple way to generate random sentences. This is useful for generating an example input for the tokenization.
