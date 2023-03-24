@@ -16,7 +16,8 @@ python 3.6 or higher
 - tkinter
 - transformers
 - wonderwords
-- Installation
+
+## Installation
 
 ## Installing packages
 - pip install tkinter
